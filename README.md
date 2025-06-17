@@ -1,1 +1,1 @@
-2-player TicTacToe game!
+2-player TicTacToe game
